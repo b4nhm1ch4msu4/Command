@@ -3,3 +3,9 @@ ls -la	: list long-all files/folders name
 tee		: when to create more output stream
 env 	: environment variables
 cut		: extract portion of text from a file
+paste   : merges lines together in a file. default delimiter is TAB
+head    : show 10 first lines
+tail    : show 10 last lines
+expand  : change TAB > space
+unexpand: change space > TAB
+
