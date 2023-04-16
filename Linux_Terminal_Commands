@@ -8,4 +8,4 @@ head    : show 10 first lines
 tail    : show 10 last lines
 expand  : change TAB > space
 unexpand: change space > TAB
-
+join    : join lines of two files on a common field
