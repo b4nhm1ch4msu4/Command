@@ -9,3 +9,9 @@ tail    : show 10 last lines
 expand  : change TAB > space
 unexpand: change space > TAB
 join    : join lines of two files on a common field
+sort    : sorting lines, useful when combined with other commands
+tr      : translate a set of characters into another
+uniq    : Unique
+wc,nl   : words count  | number lines
+grep    : search files for characters match
+
